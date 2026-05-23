@@ -103,7 +103,7 @@ Employee-Attrition-Project/
 │
 ├── dataset/
 ├── notebook/
-├── README.md
-└── report.pdf
+├── REPORT.pdf
+└── Readme.md
 
 Done by Sano Alain Michel
